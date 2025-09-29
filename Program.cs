@@ -1,1 +1,1 @@
-﻿cw
+﻿Console.WriteLine("Los gehts");
